@@ -14,6 +14,7 @@ public class Practice1Test {
 		System.out.println("browser-->"+browser);
 		System.out.println("password-->"+password);
 		System.out.println("hai");
+		//hi everyone
 		
 	}
 	@Test
