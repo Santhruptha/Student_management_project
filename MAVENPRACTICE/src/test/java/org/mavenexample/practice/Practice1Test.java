@@ -13,6 +13,7 @@ public class Practice1Test {
 		System.out.println("URL--->"+url);
 		System.out.println("browser-->"+browser);
 		System.out.println("password-->"+password);
+		System.out.println("hai");
 		
 	}
 	@Test
