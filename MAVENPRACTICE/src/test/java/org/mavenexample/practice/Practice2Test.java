@@ -17,6 +17,7 @@ public class Practice2Test {
 	@Test
 	public void practice3(){
 		System.out.println("test--3-->class2");
+		System.out.println("jenkins modification");
 		//test completed
 		
 	}
