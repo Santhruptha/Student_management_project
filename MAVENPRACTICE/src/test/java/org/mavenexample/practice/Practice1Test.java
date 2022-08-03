@@ -20,6 +20,7 @@ public class Practice1Test {
 	@Test
 	public void practice2(){
 		System.out.println("test--2-->class1");
+		System.out.println("edited by mohan");
 		
 	}
 	@Test
